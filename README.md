@@ -4,7 +4,7 @@
   <br>
   <a href="#">English 🇬🇧</a>
   ·
-  <a href="/docs/readme_pt-BR.md">Português  🇧🇷</a>
+  <a href="/docs/README_pt-BR.md">Português  🇧🇷</a>
 </p>
 
 # <div align="center"> Used Cars - Linear Regression </div>
