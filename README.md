@@ -30,7 +30,7 @@
 
 > *[Used Cars](https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices)*, is a German Dataset with **371825** *instances* , containing **20** *attributes* about used car advertisements spread across the internet. The objective here will be to make used car price predictions based on the attributes offered in this Dataset.
 >
-> For this, *[Used Cars](https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices)* is being used to train **Machine Learning algorithms **, mainly **Linear Regression** and **Gradient Descent**. After training, 20% of the data from the Dataset itself is used to check performance using **Mean Squared Error (MSE)** and **Coefficient of Determination (R2)**.
+> For this, *[Used Cars](https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices)* is being used to train **Machine Learning algorithms**, mainly **Linear Regression** and **Gradient Descent**. After training, 20% of the data from the Dataset itself is used to check performance using **Mean Squared Error (MSE)** and **Coefficient of Determination (R2)**.
 
 <br>
 
