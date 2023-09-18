@@ -17,6 +17,10 @@
   </a>
 </div>
 
+<div style="display: inline_block" align="center">
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/seaborn?logo=python&logoColor=ffdd54&labelColor=gray&color=%233670A0">
+</div>
+
 ### <div align="center"> 〞Used Car Price Prediction〝</div>
 <div align="center">
   <img width="400" src=".\assets\dataset-thumbnail.jpg" alt="Used Cars" href ="https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices"/>
